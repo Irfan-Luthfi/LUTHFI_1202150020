@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LUTHFI_1202150020_MODUL1</string>
+    <string name="daftarmenu_awal">Menu</string>
+    <string name="porsi_awal">Porsi</string>
+    <string name="makan_malam_header">Makan Malam</string>
+    <string name="tdk_cukup"> Jangan Disini Makan Malamnya, Uang Kamu Tidak Cukup</string>
+    <string name="cukup">Disini Aja Makan Malamnya</string>
+</resources>
